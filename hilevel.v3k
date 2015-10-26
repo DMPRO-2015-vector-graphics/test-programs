@@ -1,0 +1,5 @@
+scene 500, 500, 200
+
+height = 100
+width = 50 + 23
+square 10, 10, heigth, width
